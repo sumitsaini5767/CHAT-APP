@@ -1,0 +1,3 @@
+[submodule "/frontend"] 
+  path = frontend 
+  url = git://sumitsaini5767/CHAT-APP/frontend/tree/main/frontend
